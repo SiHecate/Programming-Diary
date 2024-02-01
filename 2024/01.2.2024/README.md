@@ -49,7 +49,7 @@ Parçlaradan istenilen özellikler eklenebilir ve çıkarılabilir haldedir.
 
 Nesnenin iç durumu değiştiğinde davranışının da değiştirilmesini sağlar. Nesneyi farklı durumlara karşı hazırlıklı hale getirir.
 
-![Uygulama değişikliği 3](3.png)
+![State](State.png)
 
 ###
 
